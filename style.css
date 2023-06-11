@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@300&family=Roboto:ital,wght@0,400;1,300&family=Varela+Round&display=swap');
+
+* {
+    font-family: 'Nunito', sans-serif;
+}
+
+.navbar-brand, .navbar-links {
+    font-size: 19px;
+}
+
+h1.welcome-text {
+    font-weight: 400;
+    text-align: center;
+}
+
+.panel-body {
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    border-radius: 5px;
+}
+.panel-body  {
+    background-color: orange;
+}
+
